@@ -1,0 +1,24 @@
+- ✅El json de las cartas debe tener ya el id, y este no se debe generar de manera aleatoria desde el componente.
+
+- ✅El store debe almacenar la carta seleccionada, y el componente ZonePlayers debe modificar ese valor cuando la carta es seleccionada
+
+- El punto de accion de TablePlay es el disparador del siguiente proceso:
+    * Comprobacion de si la carta se ha colocado en el lugar correcto.
+    * Esto tiene dos caminos (acierto y error).
+        ERROR: La carta seleccionada se queda en la ZonePlayer, y a su conjunto de cartas se le añade una nueva aleatoria.
+        ACIERTO: La carta seleccionada desaparece de la ZOnePLayer, y aparece donde se situaba el punto de acción (el cual desaparece,
+        y aparecen dos nuevos puntos de accion a la izq y dcha). Se le pasa el turno al siguiente jugador.
+
+
+
+TablePlay
+Se coloca un punto de acción inicial que no se moverá (está antes de cualquier registro historico del juego).
+A partir de ahí se coloca una primera carta inicial con un botón a la derecha( este será el div que se vaya replicando
+con cada acierto del jugador).
+
+El punto de acción debe tener un id unico y debe ser conocedor de las cartas que tiene a derecha e izquiera (por lo menos de las fechas),
+para así poder hacer la comprobación pertinente sobre la carta que se intenta colocar
+
+Pensar si sería una buena opcion que el id fueran el conjunto de las fechas de las cartas contiguas.
+
+

@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <NavBarPpal />
+    <PlayZone/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NavBarPpal from './components/NavBarPpal.vue';
+import PlayZone from './components/PlayZone.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    NavBarPpal,
+    PlayZone
   }
 }
 </script>
@@ -23,6 +25,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

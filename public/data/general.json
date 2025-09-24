@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Fundación de Roma",
+    "date": -753,
+    "type": "card"
+  },
+  {
+    "id": 2,
+    "title": "Batalla de Maratón",
+    "date": -490,
+    "type": "card"
+  },
+  {
+    "id": 3,
+    "title": "Asesinato de Julio César",
+    "date": -44,
+    "type": "card"
+  },
+  {
+    "id": 4,
+    "title": "Erupción del Vesubio que destruye Pompeya",
+    "date": 79,
+    "type": "card"
+  },
+  {
+    "id": 5,
+    "title": "Caída del Imperio Romano de Occidente",
+    "date": 476,
+    "type": "card"
+  },
+  {
+    "id": 6,
+    "title": "Hégira: Migración de Mahoma de La Meca a Medina",
+    "date": 622,
+    "type": "card"
+  },
+  {
+    "id": 7,
+    "title": "Batalla de Poitiers",
+    "date": 732,
+    "type": "card"
+  },
+  {
+    "id": 8,
+    "title": "Coronación de Carlomagno como Emperador del Sacro Imperio Romano Germánico",
+    "date": 800,
+    "type": "card"
+  },
+  {
+    "id": 9,
+    "title": "Primera Cruzada",
+    "date": 1096,
+    "type": "card"
+  },
+  {
+    "id": 10,
+    "title": "Firma de la Carta Magna",
+    "date": 1215,
+    "type": "card"
+  },
+  {
+    "id": 11,
+    "title": "Inicio del Renacimiento",
+    "date": 1400,
+    "type": "card"
+  },
+  {
+    "id": 12,
+    "title": "Invención de la imprenta por Johannes Gutenberg",
+    "date": 1440,
+    "type": "card"
+  },
+  {
+    "id": 13,
+    "title": "Fin de la Guerra de los Cien Años",
+    "date": 1453,
+    "type": "card"
+  },
+  {
+    "id": 14,
+    "title": "Caída de Constantinopla",
+    "date": 1453,
+    "type": "card"
+  },
+  {
+    "id": 15,
+    "title": "Descubrimiento de América por Cristóbal Colón",
+    "date": 1492,
+    "type": "card"
+  },
+  {
+    "id": 16,
+    "title": "Inicio de la Reforma Protestante",
+    "date": 1517,
+    "type": "card"
+  },
+  {
+    "id": 17,
+    "title": "Conquista del Imperio Azteca por Hernán Cortés",
+    "date": 1521,
+    "type": "card"
+  },
+  {
+    "id": 18,
+    "title": "Batalla de Lepanto",
+    "date": 1571,
+    "type": "card"
+  },
+  {
+    "id": 19,
+    "title": "Batalla de la Armada Invencible",
+    "date": 1588,
+    "type": "card"
+  },
+  {
+    "id": 20,
+    "title": "Llegada de los primeros colonos a Jamestown, Virginia",
+    "date": 1607,
+    "type": "card"
+  },
+  {
+    "id": 21,
+    "title": "Juicio de Galileo Galilei",
+    "date": 1633,
+    "type": "card"
+  },
+  {
+    "id": 22,
+    "title": "Paz de Westfalia",
+    "date": 1648,
+    "type": "card"
+  },
+  {
+    "id": 23,
+    "title": "Revolución Gloriosa en Inglaterra",
+    "date": 1688,
+    "type": "card"
+  },
+  {
+    "id": 24,
+    "title": "Fundación de San Petersburgo",
+    "date": 1703,
+    "type": "card"
+  },
+  {
+    "id": 25,
+    "title": "Firma de la Declaración de Independencia de los Estados Unidos",
+    "date": 1776,
+    "type": "card"
+  },
+  {
+    "id": 26,
+    "title": "Firma del Tratado de París",
+    "date": 1783,
+    "type": "card"
+  },
+  {
+    "id": 27,
+    "title": "Toma de la Bastilla",
+    "date": 1789,
+    "type": "card"
+  },
+  {
+    "id": 28,
+    "title": "Ejecución de Luis XVI",
+    "date": 1793,
+    "type": "card"
+  },
+  {
+    "id": 29,
+    "title": "Coronación de Napoleón Bonaparte",
+    "date": 1804,
+    "type": "card"
+  },
+  {
+    "id": 30,
+    "title": "Grito de Dolores (Independencia de México)",
+    "date": 1810,
+    "type": "card"
+  },
+  {
+    "id": 31,
+    "title": "Batalla de Waterloo",
+    "date": 1815,
+    "type": "card"
+  },
+  {
+    "id": 32,
+    "title": "Guerra de Independencia de Brasil",
+    "date": 1822,
+    "type": "card"
+  },
+  {
+    "id": 33,
+    "title": "Abolición de la esclavitud en el Reino Unido",
+    "date": 1833,
+    "type": "card"
+  },
+  {
+    "id": 34,
+    "title": "Inicio de la Guerra del Opio",
+    "date": 1839,
+    "type": "card"
+  },
+  {
+    "id": 35,
+    "title": "Publicación del Manifiesto Comunista",
+    "date": 1848,
+    "type": "card"
+  },
+  {
+    "id": 36,
+    "title": "Guerra de Crimea",
+    "date": 1853,
+    "type": "card"
+  },
+  {
+    "id": 37,
+    "title": "Publicación del libro 'El origen de las especies' de Charles Darwin",
+    "date": 1859,
+    "type": "card"
+  },
+  {
+    "id": 38,
+    "title": "Unificación de Italia",
+    "date": 1861,
+    "type": "card"
+  },
+  {
+    "id": 39,
+    "title": "Guerra Civil Americana",
+    "date": 1861,
+    "type": "card"
+  },
+  {
+    "id": 40,
+    "title": "Unificación de Alemania",
+    "date": 1871,
+    "type": "card"
+  },
+  {
+    "id": 41,
+    "title": "Invención de la bombilla incandescente por Thomas Edison",
+    "date": 1879,
+    "type": "card"
+  },
+  {
+    "id": 42,
+    "title": "Construcción del Canal de Panamá",
+    "date": 1881,
+    "type": "card"
+  },
+  {
+    "id": 43,
+    "title": "Invención del automóvil con motor de gasolina",
+    "date": 1886,
+    "type": "card"
+  },
+  {
+    "id": 44,
+    "title": "Inauguración de la Exposición Universal de París",
+    "date": 1889,
+    "type": "card"
+  },
+  {
+    "id": 45,
+    "title": "Guerra Hispanoamericana",
+    "date": 1898,
+    "type": "card"
+  },
+  {
+    "id": 46,
+    "title": "Guerra de los Bóeres",
+    "date": 1899,
+    "type": "card"
+  },
+  {
+    "id": 47,
+    "title": "Vuelo de los hermanos Wright",
+    "date": 1903,
+    "type": "card"
+  },
+  {
+    "id": 48,
+    "title": "Hundimiento del Titanic",
+    "date": 1912,
+    "type": "card"
+  },
+  {
+    "id": 49,
+    "title": "Fin de la dinastía Qing en China",
+    "date": 1912,
+    "type": "card"
+  },
+  {
+    "id": 50,
+    "title": "Inicio de la Primera Guerra Mundial",
+    "date": 1914,
+    "type": "card"
+  },
+  {
+    "id": 51,
+    "title": "Revolución Rusa",
+    "date": 1917,
+    "type": "card"
+  },
+  {
+    "id": 52,
+    "title": "Fin de la Primera Guerra Mundial",
+    "date": 1918,
+    "type": "card"
+  },
+  {
+    "id": 53,
+    "title": "Tratado de Versalles",
+    "date": 1919,
+    "type": "card"
+  },
+  {
+    "id": 54,
+    "title": "Descubrimiento de la Penicilina por Alexander Fleming",
+    "date": 1928,
+    "type": "card"
+  },
+  {
+    "id": 55,
+    "title": "Crack del 29 y el inicio de la Gran Depresión",
+    "date": 1929,
+    "type": "card"
+  },
+  {
+    "id": 56,
+    "title": "Fundación del Reino de Arabia Saudita",
+    "date": 1932,
+    "type": "card"
+  },
+  {
+    "id": 57,
+    "title": "Guerra civil española",
+    "date": 1936,
+    "type": "card"
+  },
+  {
+    "id": 58,
+    "title": "Inicio de la Segunda Guerra Mundial",
+    "date": 1939,
+    "type": "card"
+  },
+  {
+    "id": 59,
+    "title": "Holocausto",
+    "date": 1941,
+    "type": "card"
+  },
+  {
+    "id": 60,
+    "title": "Ataque a Pearl Harbor",
+    "date": 1941,
+    "type": "card"
+  },
+  {
+    "id": 61,
+    "title": "Desembarco de Normandía",
+    "date": 1944,
+    "type": "card"
+  },
+  {
+    "id": 62,
+    "title": "Creación del Fondo Monetario Internacional (FMI)",
+    "date": 1944,
+    "type": "card"
+  },
+  {
+    "id": 63,
+    "title": "Bombardeos atómicos de Hiroshima y Nagasaki",
+    "date": 1945,
+    "type": "card"
+  },
+  {
+    "id": 64,
+    "title": "Fin de la Segunda Guerra Mundial",
+    "date": 1945,
+    "type": "card"
+  },
+  {
+    "id": 65,
+    "title": "Creación de las Naciones Unidas",
+    "date": 1945,
+    "type": "card"
+  },
+  {
+    "id": 66,
+    "title": "Declaración de la Guerra Fría",
+    "date": 1947,
+    "type": "card"
+  },
+  {
+    "id": 67,
+    "title": "Creación del Estado de Israel",
+    "date": 1948,
+    "type": "card"
+  },
+  {
+    "id": 68,
+    "title": "Nacimiento de la República Popular China",
+    "date": 1949,
+    "type": "card"
+  },
+  {
+    "id": 69,
+    "title": "Guerra de Corea",
+    "date": 1950,
+    "type": "card"
+  },
+  {
+    "id": 70,
+    "title": "Lanzamiento del Sputnik I",
+    "date": 1957,
+    "type": "card"
+  },
+  {
+    "id": 71,
+    "title": "Revolución cubana",
+    "date": 1959,
+    "type": "card"
+  },
+  {
+    "id": 72,
+    "title": "Construcción del Muro de Berlín",
+    "date": 1961,
+    "type": "card"
+  },
+  {
+    "id": 73,
+    "title": "Crisis de los misiles de Cuba",
+    "date": 1962,
+    "type": "card"
+  },
+  {
+    "id": 74,
+    "title": "Asesinato de John F. Kennedy",
+    "date": 1963,
+    "type": "card"
+  },
+  {
+    "id": 75,
+    "title": "Guerra de Vietnam",
+    "date": 1964,
+    "type": "card"
+  },
+  {
+    "id": 76,
+    "title": "Asesinato de Martin Luther King Jr.",
+    "date": 1968,
+    "type": "card"
+  },
+  {
+    "id": 77,
+    "title": "Llegada del hombre a la Luna (Apollo 11)",
+    "date": 1969,
+    "type": "card"
+  },
+  {
+    "id": 78,
+    "title": "Descubrimiento del agujero de ozono en la Antártida",
+    "date": 1985,
+    "type": "card"
+  },
+  {
+    "id": 79,
+    "title": "Caída del Muro de Berlín",
+    "date": 1989,
+    "type": "card"
+  },
+  {
+    "id": 80,
+    "title": "Reunificación de Alemania",
+    "date": 1990,
+    "type": "card"
+  },
+  {
+    "id": 81,
+    "title": "Lanzamiento del Telescopio Espacial Hubble",
+    "date": 1990,
+    "type": "card"
+  },
+  {
+    "id": 82,
+    "title": "Disolución de la Unión Soviética",
+    "date": 1991,
+    "type": "card"
+  },
+  {
+    "id": 83,
+    "title": "Fundación de la Unión Europea",
+    "date": 1993,
+    "type": "card"
+  },
+  {
+    "id": 84,
+    "title": "Primer presidente negro de Sudáfrica, Nelson Mandela",
+    "date": 1994,
+    "type": "card"
+  },
+  {
+    "id": 85,
+    "title": "Genocidio de Ruanda",
+    "date": 1994,
+    "type": "card"
+  },
+  {
+    "id": 86,
+    "title": "Tratado de Kioto sobre el cambio climático",
+    "date": 1997,
+    "type": "card"
+  },
+  {
+    "id": 87,
+    "title": "Ataque del 11 de septiembre en Estados Unidos",
+    "date": 2001,
+    "type": "card"
+  },
+  {
+    "id": 88,
+    "title": "Invasión de Irak",
+    "date": 2003,
+    "type": "card"
+  },
+  {
+    "id": 89,
+    "title": "Terremoto y tsunami en el Océano Índico",
+    "date": 2004,
+    "type": "card"
+  },
+  {
+    "id": 90,
+    "title": "Crisis financiera global",
+    "date": 2008,
+    "type": "card"
+  },
+  {
+    "id": 91,
+    "title": "Elección de Barack Obama como el primer presidente afroamericano de Estados Unidos",
+    "date": 2008,
+    "type": "card"
+  },
+  {
+    "id": 92,
+    "title": "Inauguración del Gran Colisionador de Hadrones (LHC)",
+    "date": 2008,
+    "type": "card"
+  },
+  {
+    "id": 93,
+    "title": "Primavera Árabe",
+    "date": 2010,
+    "type": "card"
+  },
+  {
+    "id": 94,
+    "title": "Asesinato de Osama bin Laden",
+    "date": 2011,
+    "type": "card"
+  },
+  {
+    "id": 95,
+    "title": "Guerra Civil Siria",
+    "date": 2011,
+    "type": "card"
+  },
+  {
+    "id": 96,
+    "title": "Cisjordania es reconocida como Estado observador no miembro en la ONU",
+    "date": 2012,
+    "type": "card"
+  },
+  {
+    "id": 97,
+    "title": "Aprobación del Acuerdo de París sobre el cambio climático",
+    "date": 2015,
+    "type": "card"
+  },
+  {
+    "id": 98,
+    "title": "Retirada del Reino Unido de la Unión Europea (Brexit)",
+    "date": 2020,
+    "type": "card"
+  },
+  {
+    "id": 99,
+    "title": "Inicio de la pandemia de COVID-19",
+    "date": 2020,
+    "type": "card"
+  },
+  {
+    "id": 100,
+    "title": "Invasión rusa de Ucrania",
+    "date": 2022,
+    "type": "card"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Invención de la rueda",
+    "date": -3500,
+    "type": "card"
+  },
+  {
+    "id": 2,
+    "title": "Invención del papel por Cai Lun",
+    "date": 105,
+    "type": "card"
+  },
+  {
+    "id": 3,
+    "title": "Invención de la pólvora en China",
+    "date": 850,
+    "type": "card"
+  },
+  {
+    "id": 4,
+    "title": "Desarrollo del molino de viento",
+    "date": 1180,
+    "type": "card"
+  },
+  {
+    "id": 5,
+    "title": "Invención de las gafas",
+    "date": 1286,
+    "type": "card"
+  },
+  {
+    "id": 6,
+    "title": "Invención de la imprenta por Gutenberg",
+    "date": 1440,
+    "type": "card"
+  },
+  {
+    "id": 7,
+    "title": "Invención del telescopio por Hans Lippershey",
+    "date": 1608,
+    "type": "card"
+  },
+  {
+    "id": 8,
+    "title": "Invención del microscopio compuesto",
+    "date": 1610,
+    "type": "card"
+  },
+  {
+    "id": 9,
+    "title": "Invención del barómetro por Torricelli",
+    "date": 1643,
+    "type": "card"
+  },
+  {
+    "id": 10,
+    "title": "Invención de la máquina de vapor por Thomas Newcomen",
+    "date": 1712,
+    "type": "card"
+  },
+  {
+    "id": 11,
+    "title": "Desarrollo del pararrayos por Benjamin Franklin",
+    "date": 1752,
+    "type": "card"
+  },
+  {
+    "id": 12,
+    "title": "Invención del cronómetro marino por John Harrison",
+    "date": 1761,
+    "type": "card"
+  },
+  {
+    "id": 13,
+    "title": "Invención de la máquina de hilar Jenny",
+    "date": 1764,
+    "type": "card"
+  },
+  {
+    "id": 14,
+    "title": "Invención del motor a vapor por James Watt",
+    "date": 1769,
+    "type": "card"
+  },
+  {
+    "id": 15,
+    "title": "Invención de la pila eléctrica por Alessandro Volta",
+    "date": 1800,
+    "type": "card"
+  },
+  {
+    "id": 16,
+    "title": "Invención de la locomotora a vapor por Richard Trevithick",
+    "date": 1804,
+    "type": "card"
+  },
+  {
+    "id": 17,
+    "title": "Invención del telégrafo eléctrico por Samuel Morse",
+    "date": 1837,
+    "type": "card"
+  },
+  {
+    "id": 18,
+    "title": "Invención del hormigón armado",
+    "date": 1849,
+    "type": "card"
+  },
+  {
+    "id": 19,
+    "title": "Invención del teléfono por Alexander Graham Bell",
+    "date": 1876,
+    "type": "card"
+  },
+  {
+    "id": 20,
+    "title": "Invención del fonógrafo por Thomas Edison",
+    "date": 1877,
+    "type": "card"
+  },
+  {
+    "id": 21,
+    "title": "Invención de la bombilla incandescente por Thomas Edison",
+    "date": 1879,
+    "type": "card"
+  },
+  {
+    "id": 22,
+    "title": "Invención de la máquina de escribir",
+    "date": 1880,
+    "type": "card"
+  },
+  {
+    "id": 23,
+    "title": "Invención del motor de gasolina por Karl Benz",
+    "date": 1886,
+    "type": "card"
+  },
+  {
+    "id": 24,
+    "title": "Invención de los Rayos X por Wilhelm Röntgen",
+    "date": 1895,
+    "type": "card"
+  },
+  {
+    "id": 25,
+    "title": "Invención de la radio por Guillermo Marconi",
+    "date": 1896,
+    "type": "card"
+  },
+  {
+    "id": 26,
+    "title": "Invención de la aspirina",
+    "date": 1899,
+    "type": "card"
+  },
+  {
+    "id": 27,
+    "title": "Primer vuelo con motor de los hermanos Wright",
+    "date": 1903,
+    "type": "card"
+  },
+  {
+    "id": 28,
+    "title": "Invención del plástico sintético (Baquelita)",
+    "date": 1907,
+    "type": "card"
+  },
+  {
+    "id": 29,
+    "title": "Invención de la televisión",
+    "date": 1925,
+    "type": "card"
+  },
+  {
+    "id": 30,
+    "title": "Descubrimiento de la Penicilina por Alexander Fleming",
+    "date": 1928,
+    "type": "card"
+  },
+  {
+    "id": 31,
+    "title": "Invención del transistor",
+    "date": 1947,
+    "type": "card"
+  },
+  {
+    "id": 32,
+    "title": "Invención del microchip",
+    "date": 1958,
+    "type": "card"
+  },
+  {
+    "id": 33,
+    "title": "Invención del láser",
+    "date": 1960,
+    "type": "card"
+  },
+  {
+    "id": 34,
+    "title": "Invención del correo electrónico",
+    "date": 1971,
+    "type": "card"
+  },
+  {
+    "id": 35,
+    "title": "Invención del teléfono móvil por Martin Cooper",
+    "date": 1973,
+    "type": "card"
+  },
+  {
+    "id": 36,
+    "title": "Invención de los reproductores de video caseros (VCR)",
+    "date": 1975,
+    "type": "card"
+  },
+  {
+    "id": 37,
+    "title": "Invención de la computadora personal",
+    "date": 1975,
+    "type": "card"
+  },
+  {
+    "id": 38,
+    "title": "Invención del 'Walkman' por Sony",
+    "date": 1979,
+    "type": "card"
+  },
+  {
+    "id": 39,
+    "title": "Invención de la píldora anticonceptiva",
+    "date": 1960,
+    "type": "card"
+  },
+  {
+    "id": 40,
+    "title": "Invención del World Wide Web (WWW) por Tim Berners-Lee",
+    "date": 1989,
+    "type": "card"
+  },
+  {
+    "id": 41,
+    "title": "Lanzamiento del Telescopio Espacial Hubble",
+    "date": 1990,
+    "type": "card"
+  },
+  {
+    "id": 42,
+    "title": "Lanzamiento del primer navegador web (Mosaic)",
+    "date": 1993,
+    "type": "card"
+  },
+  {
+    "id": 43,
+    "title": "Lanzamiento de Google",
+    "date": 1998,
+    "type": "card"
+  },
+  {
+    "id": 44,
+    "title": "Lanzamiento de Wikipedia",
+    "date": 2001,
+    "type": "card"
+  },
+  {
+    "id": 45,
+    "title": "Lanzamiento de YouTube",
+    "date": 2005,
+    "type": "card"
+  },
+  {
+    "id": 46,
+    "title": "Lanzamiento del primer iPhone",
+    "date": 2007,
+    "type": "card"
+  },
+  {
+    "id": 47,
+    "title": "Inauguración del Gran Colisionador de Hadrones (LHC)",
+    "date": 2008,
+    "type": "card"
+  },
+  {
+    "id": 48,
+    "title": "Desarrollo del Bitcoin",
+    "date": 2009,
+    "type": "card"
+  },
+  {
+    "id": 49,
+    "title": "Invención del vehículo autónomo",
+    "date": 2010,
+    "type": "card"
+  },
+  {
+    "id": 50,
+    "title": "Desarrollo del CRISPR-Cas9 para edición genética",
+    "date": 2012,
+    "type": "card"
+  },
+  {
+    "id": 51,
+    "title": "Lanzamiento de SpaceX Falcon Heavy",
+    "date": 2018,
+    "type": "card"
+  },
+  {
+    "id": 52,
+    "title": "Desarrollo de la vacuna de ARNm contra el COVID-19",
+    "date": 2020,
+    "type": "card"
+  },
+  {
+    "id": 53,
+    "title": "Lanzamiento del Telescopio Espacial James Webb",
+    "date": 2021,
+    "type": "card"
+  },
+  {
+    "id": 54,
+    "title": "Desarrollo de la Inteligencia Artificial generativa",
+    "date": 2022,
+    "type": "card"
+  },
+  {
+    "id": 55,
+    "title": "Lanzamiento del Gran Colisionador de Hadrones de China",
+    "date": 2035,
+    "type": "card"
+  },
+  {
+    "id": 56,
+    "title": "Primer viaje comercial a la Luna",
+    "date": 2040,
+    "type": "card"
+  },
+  {
+    "id": 57,
+    "title": "Desarrollo de la teletransportación cuántica",
+    "date": 2050,
+    "type": "card"
+  },
+  {
+    "id": 58,
+    "title": "Cura del cáncer",
+    "date": 2060,
+    "type": "card"
+  },
+  {
+    "id": 59,
+    "title": "Colonización de Marte",
+    "date": 2075,
+    "type": "card"
+  },
+  {
+    "id": 60,
+    "title": "Primer contacto con vida extraterrestre",
+    "date": 2085,
+    "type": "card"
+  },
+  {
+    "id": 61,
+    "title": "Invención del viaje en el tiempo",
+    "date": 2090,
+    "type": "card"
+  },
+  {
+    "id": 62,
+    "title": "Invención de la teletransportación",
+    "date": 2095,
+    "type": "card"
+  },
+  {
+    "id": 63,
+    "title": "Invención de la nanotecnología",
+    "date": 2100,
+    "type": "card"
+  },
+  {
+    "id": 64,
+    "title": "Cura de la vejez",
+    "date": 2125,
+    "type": "card"
+  },
+  {
+    "id": 65,
+    "title": "Invención de la inteligencia artificial general",
+    "date": 2150,
+    "type": "card"
+  },
+  {
+    "id": 66,
+    "title": "Invención de la fusión nuclear",
+    "date": 2175,
+    "type": "card"
+  },
+  {
+    "id": 67,
+    "title": "Invención de los viajes interestelares",
+    "date": 2200,
+    "type": "card"
+  },
+  {
+    "id": 68,
+    "title": "Invención de la telequinesis",
+    "date": 2225,
+    "type": "card"
+  },
+  {
+    "id": 69,
+    "title": "Invención de la manipulación de la realidad",
+    "date": 2250,
+    "type": "card"
+  },
+  {
+    "id": 70,
+    "title": "Invención de la creación de vida sintética",
+    "date": 2275,
+    "type": "card"
+  },
+  {
+    "id": 71,
+    "title": "Invención de la creación de universos",
+    "date": 2300,
+    "type": "card"
+  },
+  {
+    "id": 72,
+    "title": "Invención de la conciencia colectiva",
+    "date": 2325,
+    "type": "card"
+  },
+  {
+    "id": 73,
+    "title": "Invención del viaje a otras dimensiones",
+    "date": 2350,
+    "type": "card"
+  },
+  {
+    "id": 74,
+    "title": "Invención de la inmortalidad",
+    "date": 2375,
+    "type": "card"
+  },
+  {
+    "id": 75,
+    "title": "Invención del control del tiempo",
+    "date": 2400,
+    "type": "card"
+  },
+  {
+    "id": 76,
+    "title": "Invención de la creación de mundos",
+    "date": 2425,
+    "type": "card"
+  },
+  {
+    "id": 77,
+    "title": "Invención de la creación de galaxias",
+    "date": 2450,
+    "type": "card"
+  },
+  {
+    "id": 78,
+    "title": "Invención de la creación de universos paralelos",
+    "date": 2475,
+    "type": "card"
+  },
+  {
+    "id": 79,
+    "title": "Invención de la omnisciencia",
+    "date": 2500,
+    "type": "card"
+  },
+  {
+    "id": 80,
+    "title": "Invención de la omnipotencia",
+    "date": 2525,
+    "type": "card"
+  },
+  {
+    "id": 81,
+    "title": "Invención de la omnipresencia",
+    "date": 2550,
+    "type": "card"
+  },
+  {
+    "id": 82,
+    "title": "Invención de la creación de la existencia",
+    "date": 2575,
+    "type": "card"
+  },
+  {
+    "id": 83,
+    "title": "Invención de la creación de la nada",
+    "date": 2600,
+    "type": "card"
+  },
+  {
+    "id": 84,
+    "title": "Invención de la creación de la eternidad",
+    "date": 2625,
+    "type": "card"
+  },
+  {
+    "id": 85,
+    "title": "Invención de la creación del infinito",
+    "date": 2650,
+    "type": "card"
+  },
+  {
+    "id": 86,
+    "title": "Invención de la creación de la inmortalidad",
+    "date": 2675,
+    "type": "card"
+  },
+  {
+    "id": 87,
+    "title": "Invención de la creación del tiempo",
+    "date": 2700,
+    "type": "card"
+  },
+  {
+    "id": 88,
+    "title": "Invención de la creación del espacio",
+    "date": 2725,
+    "type": "card"
+  },
+  {
+    "id": 89,
+    "title": "Invención de la creación de la materia",
+    "date": 2750,
+    "type": "card"
+  },
+  {
+    "id": 90,
+    "title": "Invención de la creación de la energía",
+    "date": 2775,
+    "type": "card"
+  },
+  {
+    "id": 91,
+    "title": "Invención de la creación de la vida",
+    "date": 2800,
+    "type": "card"
+  },
+  {
+    "id": 92,
+    "title": "Invención de la creación de la conciencia",
+    "date": 2825,
+    "type": "card"
+  },
+  {
+    "id": 93,
+    "title": "Invención de la creación de la inteligencia",
+    "date": 2850,
+    "type": "card"
+  },
+  {
+    "id": 94,
+    "title": "Invención de la creación de la sabiduría",
+    "date": 2875,
+    "type": "card"
+  },
+  {
+    "id": 95,
+    "title": "Invención de la creación de la verdad",
+    "date": 2900,
+    "type": "card"
+  },
+  {
+    "id": 96,
+    "title": "Invención de la creación de la belleza",
+    "date": 2925,
+    "type": "card"
+  },
+  {
+    "id": 97,
+    "title": "Invención de la creación de la bondad",
+    "date": 2950,
+    "type": "card"
+  },
+  {
+    "id": 98,
+    "title": "Invención de la creación del amor",
+    "date": 2975,
+    "type": "card"
+  },
+  {
+    "id": 99,
+    "title": "Invención de la creación de la paz",
+    "date": 3000,
+    "type": "card"
+  },
+  {
+    "id": 100,
+    "title": "Invención de la creación de la felicidad",
+    "date": 3025,
+    "type": "card"
+  }
+]

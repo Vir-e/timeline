@@ -22,3 +22,6 @@ para así poder hacer la comprobación pertinente sobre la carta que se intenta 
 Pensar si sería una buena opcion que el id fueran el conjunto de las fechas de las cartas contiguas.
 
 
+FALTA FUNCIONALIDAD AGREGAR CARTAS AL ERRAR
+
+

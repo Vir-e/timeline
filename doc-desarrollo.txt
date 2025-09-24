@@ -23,5 +23,6 @@ Pensar si sería una buena opcion que el id fueran el conjunto de las fechas de 
 
 
 FALTA FUNCIONALIDAD AGREGAR CARTAS AL ERRAR
+REFACTORIZAR!!!!
 
 

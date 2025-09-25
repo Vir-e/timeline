@@ -31,7 +31,7 @@ export default {
     align-items: center;
     gap: 50px;
     padding: 0.3rem 25px;
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
 }
 
 

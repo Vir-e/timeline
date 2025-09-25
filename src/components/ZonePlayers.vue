@@ -1,6 +1,6 @@
 <template>
     <div class="zone-players">
-        <div v-for="player in players" v-bind:key="player.id" class="container-player" :class="{'container-player-activo': player.id === jugadorActivo.id}">
+        <div v-for="player in playersOrdenados" v-bind:key="player.id" class="container-player" :class="{'container-player-activo': player.id === jugadorActivo.id}">
             <div class="container-cards">
                 <template>
                     <div 
@@ -64,8 +64,16 @@ export default{
     computed:{
         ...mapState({
             cartaSelDelStore: state => state.cardSeleccionada
-    })
+    }),
+
+        playersOrdenados(){
+            if(!this.jugadorActivo) return this.players;
+            const activo = this.players.find(p => p.id === this.jugadorActivo.id);
+            const resto = this.players.filter(p => p.id !== this.jugadorActivo.id);
+            return [activo, ...resto];
+        },
     },
+
     watch: {
         cartaSelDelStore(newValue){
             if(newValue === null){

@@ -79,4 +79,24 @@ div span {
 }
 
 
+
+/* --- Responsive styles for mobile --- */
+@media (max-width: 600px) {
+    .container-titulo {
+        width: 70px;
+        height: 100px;
+    }
+    .card {
+        padding-bottom: 2px;
+        padding-left: 0.5px;
+        padding-right: 0.5px;
+    }
+    .titulo {
+        margin-top: 15%;
+        font-size: 0.9rem;
+    }
+    div span {
+        font-size: 12px;
+    }
+}
 </style>
